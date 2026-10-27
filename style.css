@@ -1,0 +1,60 @@
+#fondo {
+    background-image: url('imagenez/fondo3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#navbar {
+    background-color: #2878C8 !important;
+    color: #000000 !important;
+    text-align: center;
+}
+
+.color {
+    color: #ffffff !important;
+}
+
+.fondo-1{
+    background-color:#FF0033
+}
+
+.centrado{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.contenido {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 150px;
+    box-sizing: border-box;
+}
+
+#uno{
+    padding: 300px;
+}
+
+.decoracion{
+    background-color:#4A90E2;
+    width: 110%;
+    max-width: 900px;
+    min-height: 400px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+#mayuscula{
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.verde{
+    background-color:#4C8C2B;
+    padding: 20px;
+}
